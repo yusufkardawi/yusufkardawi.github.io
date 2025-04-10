@@ -1,20 +1,20 @@
-title: Muhammad Yusuf Kardawi
-profile_img: /assets/img/profile.webp
+title: Yusuf's CV
+profile_img: /assets/img/1Remove background project.png
 icon_img: /assets/img/icon.webp
 
-name: "Your Name Here"
-job: "〈Your Job Here〉"
+name: "Muhammad Yusuf Kardawi"
+job: "AI Engineer"
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+phone_number: +62 822-7777-7807
+address: Setiabudi, Jakarta Selatan, Indonesia
+email: yusuf.kardawi@jatis.com
+linkedin_username: Muhammad Yusuf Kardawi
+github_username: yusufkardawi
+instagram_username: @jusufkardawy
+twitter_username: @jusufkardawy
+facebook_username: Muhammad Yusuf Kardawi
+youtube_username: @jusufkardawy
+blog_url: yusufkardawi.github.io
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
