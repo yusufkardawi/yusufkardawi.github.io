@@ -1,41 +1,46 @@
-# Example headings
+# Example Headings
 
 ## Sample Section
 
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
+## Helpful Section: About the Greek Letter **Θ**
 A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
-## This heading is not unique in the file
+## This Heading Is Not Unique in the File
 
 TEXT 1
 
-## This heading is not unique in the file
+## This Heading Is Not Unique in the File
 
 TEXT 2
 
-# Links to the example headings above
+---
 
-Link to the sample section: [Link Text](#sample-section).
+# Links to the Example Headings
 
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
+- [Sample Section](#sample-section)
+- [Helpful Section: About the Greek Letter **Θ**](#helpful-section-about-the-greek-letter-Θ)
+- [First Non-Unique Section](#this-heading-is-not-unique-in-the-file)
+- [Second Non-Unique Section](#this-heading-is-not-unique-in-the-file-1)
 
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+---
 
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+# Notes and Tips
 
-> [!NOTE]
+> **Note**  
 > Useful information that users should know, even when skimming content.
 
-> [!TIP]
+> **Tip**  
 > Helpful advice for doing things better or more easily.
 
-> [!IMPORTANT]
+> **Important**  
 > Key information users need to know to achieve their goal.
 
-> [!WARNING]
+> **Warning**  
 > Urgent info that needs immediate user attention to avoid problems.
 
-> [!CAUTION]
+> **Caution**  
 > Advises about risks or negative outcomes of certain actions.
+
+---
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
