@@ -2,21 +2,42 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: PT. Informasi Teknologi Indonesia Tbk (Jatis Mobile)
+    role: AI Engineer
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Conducting cutting-edge research in artificial intelligence to explore and validate novel methodologies and advanced algorithms for complex problem-solving
+      - Designing, developing, and implementing robust and scalable AI models and systems, from proof-of-concept to production-ready solutions
+    date: Apr. 2025 - Ongoing
+  - title: PT. Trang Raya Meucuhu
+    role: IT Administrative
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Maintaining an accurate inventory of hardware and software, handling the ordering and procurement of new IT equipment, and ensuring proper software license management
+    date: Feb. 2021 - Jul. 2024
+  - title: PT. Digital Kreasi Muslim
+    role: Mobile Developer Intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Executing Mobile App Migration from Java Native to Flutter
+      - Development of Mobile Apps with the Flutter Framework
+    date: Jul. 2022 - Aug. 2022
+  - title: PT. Telkom Indonesia Tbk
+    role: Managed Service Operation Intern
+    description: 
+      - Responsible for the operational and upkeep of Node B infrastructure
+      - Actively tracking network bandwidth utilization across different parts of the Regional 1 Sumatera network
+      - Setting up and configuring VLAN on network devices
+    date: Jul. 2021 - Aug. 2022
+  - title: Universitas Syiah Kuala
+    role: Assistant Lecturer
+    description: 
+      - Computer Vision course
+      - Human Computer Interaction course
+      - Linear Algebra and complex variable course
+    date: Aug. 2020 - Feb. 2022
+    role: Laboratory Coordinator
+    description: 
+      - Distributed System and High Performance Computing Laboratorium
+    date: Aug. 2021 - Aug. 2022
+    role: Teaching Assistant
+    description:
+      - Islamic Religious course
+    date: Feb. 2019 - Aug. 2020
