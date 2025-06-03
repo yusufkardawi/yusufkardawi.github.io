@@ -8,35 +8,43 @@ contents:
       - Conducting cutting-edge research in artificial intelligence to explore and validate novel methodologies and advanced algorithms for complex problem-solving
       - Designing, developing, and implementing robust and scalable AI models and systems, from proof-of-concept to production-ready solutions
     date: Apr. 2025 - Ongoing
+
   - title: PT. Trang Raya Meucuhu
     role: IT Administrative
-    description: 
+    description:
       - Maintaining an accurate inventory of hardware and software, handling the ordering and procurement of new IT equipment, and ensuring proper software license management
     date: Feb. 2021 - Jul. 2024
+
   - title: PT. Digital Kreasi Muslim
     role: Mobile Developer Intern
-    description: 
+    description:
       - Executing Mobile App Migration from Java Native to Flutter
       - Development of Mobile Apps with the Flutter Framework
     date: Jul. 2022 - Aug. 2022
+
   - title: PT. Telkom Indonesia Tbk
     role: Managed Service Operation Intern
-    description: 
+    description:
       - Responsible for the operational and upkeep of Node B infrastructure
       - Actively tracking network bandwidth utilization across different parts of the Regional 1 Sumatera network
       - Setting up and configuring VLAN on network devices
     date: Jul. 2021 - Aug. 2022
+
   - title: Universitas Syiah Kuala
     role: Assistant Lecturer
-    description: 
+    description:
       - Computer Vision course
       - Human Computer Interaction course
       - Linear Algebra and complex variable course
     date: Aug. 2020 - Feb. 2022
+
+  - title: Universitas Syiah Kuala
     role: Laboratory Coordinator
-    description: 
+    description:
       - Distributed System and High Performance Computing Laboratorium
     date: Aug. 2021 - Aug. 2022
+
+  - title: Universitas Syiah Kuala
     role: Teaching Assistant
     description:
       - Islamic Religious course
