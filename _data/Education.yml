@@ -13,7 +13,7 @@ contents:
     grade: "**GPA**: `3.67/4.0`"
     date: Sep. 2024 - Apr. 2025
   - title: Universitas Syiah Kuala, Bachelor in Computer Engineering
-  description:
+    description:
       - Development of a deep learning-based CAD system for knee osteoarthritis detection from X-ray images
     grade: "**GPA**: `3.46/4.0`"
     date: Aug. 2018 - Jun. 2022
