@@ -4,16 +4,16 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Universitas Indonesia, Master's in Computer Science
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
+      - Research Topics: Development of a unified network integrating convolution, transformer, and dynamic prompts for lightweight all-in-one image restoration
     grade: "**GPA**: `3.66/4.0`"
     date: Aug. 2023 - Aug. 2025
   - title: Bina Nusantara University, Professional Engineer Program
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `3.77/4.0`"
+      - Research Topics: Development of a feature fusion methodology combining multi-source CNN features and an attention mechanism to enhance scene classification accuracy in remote sensing imagery
+    grade: "**GPA**: `3.67/4.0`"
     date: Sep. 2024 - Jun. 2025
   - title: Universitas Syiah Kuala, Bachelor in Computer Engineering
+  description:
+      - Research Topics: Development of a deep learning-based CAD system for knee osteoarthritis detection from X-ray images
     grade: "**GPA**: `3.46/4.0`"
     date: Aug. 2018 - Jun. 2022
