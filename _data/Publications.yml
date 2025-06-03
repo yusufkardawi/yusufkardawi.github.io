@@ -4,16 +4,14 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
     ref: 
-      - "[1] **M. Y. Kardawi** and L. Rahadianti, “[Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6381),” *J. RESTI (Rekayasa Sist. Teknol. Inf.)*, vol. 9, no. 2, pp. 404 - 415, Apr. 2025"
-      - "[2] **M. Y. Kardawi** and M. E. Simanjuntak, “[The Routledge International Handbook of Digital Social Work: Peláez, A. L., & Kirwan, G. (Eds.). (2023). London & New York: Routledge](https://www.tandfonline.com/doi/full/10.1080/10911359.2024.2425770),” *J. Hum. Behav. Soc. Environ.*, vol. 34, no. 8, pp. 1–4, Nov. 2024"
-      - "[3] K. Suwida, **M. Y. Kardawi**, D. Purwitasari, and F. Mabahist, “[A Combination of Lexicon-based and Distributional Representations for Classification of Indonesian Vaccine Acceptance Rates](https://emitter.pens.ac.id/index.php/emitter/article/view/768),” *EMITTER Int’l J. of Engin. Technol.*, vol. 11, no. 1, pp. 89-99, Jun. 2023."
-      - "[4] M. R. Adhari and **M. Y. Kardawi**, “[Relationship between seismic acoustic impedance (AI) and total organic carbon (TOC) content: a case study from Australia](https://jurnal.usk.ac.id/natural/article/view/30980),” *Jurnal Natural*, vol. 23, no. 3, pp. 185-193, Oct. 2023"
-      - "[5] M. R. Adhari and **M. Y. Kardawi**, “[Estimation of density log and sonic log using artificial intelligence: an example from the Perth Basin, Australia](https://journal.uir.ac.id/index.php/JGEET/article/view/10050),” *Journal of Geoscience, Engineering, Environment and Technology (JGEET)*, vol. 7, no. 4, Dec. 2022"
+      - "[1] **M. Y. Kardawi** and L. Rahadianti, “[Efficient Hybrid Network with Prompt Learning for Multi-Degradation Image Restoration](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6...)"
+      - "[2] **M. Y. Kardawi** and M. E. Simanjuntak, “[The Routledge International Handbook of Digital Social Work: Peláez, A. L., & Kirwan, G. (Eds.). (2023). London & New York: Routledge](htt...)"
+      - "[3] K. Suwida, **M. Y. Kardawi**, D. Purwitasari, and F. Mabahist, “[A Combination of Lexicon-based and Distributional Representations for Classification of Indonesian Vaccine Acceptance...]"
+      - "[4] M. R. Adhari and **M. Y. Kardawi**, “[Relationship between seismic acoustic impedance (AI) and total organic carbon (TOC) content: a case study from Australia](https://jurnal.usk.ac...)"
+      - "[5] M. R. Adhari and **M. Y. Kardawi**, “[Estimation of density log and sonic log using artificial intelligence: an example from the Perth Basin, Australia](https://journal.uir.ac.id/in...)"
   - title: Conference
     ref:
-      - "[1] **M. Y. Kardawi** and A. A. S. Gunawan, “[Remote Sensing Scene Classification Based on Hybrid Convolutional Neural Network and Attention Module](https://ieeexplore.ieee.org/document/10933290),” *2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)*, Bandung, Indonesia, 2025, pp. 1-6"
-      - "[2] S. C. Pinantyo, **M. Y. Kardawi**, A. M. Arymurthy, A. Setiyoko and M. R. Adhari, “[UNet-Based Land Cover Segmentation With Ensembled Encoder for Fine Details Enhancement](https://ieeexplore.ieee.org/abstract/document/10760122),” *2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Himeji, Japan, 2024, pp. 1-8"
-      - "[3] **M. Y. Kardawi** and R. Sarno, “[Image Enhancement for Breast Cancer Detection on Screening Mammography Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10127835),” *2023 International Conference on Computer Science, Information Technology and Engineering (ICCoSITE)*, Jakarta, Indonesia, 2023, pp. 585-590, doi: 10.1109/ICCoSITE57641.2023.10127835"
-      - "[4] **M. Y. Kardawi**, K. Muchtar, Y. Nurdin, N. Maulina and S. Muchallil, “[A Comparative Analysis of Deep Learning Models for Detection of Knee Osteoarthritis Disease through Mobile Apps] (https://ieeexplore.ieee.org/abstract/document/9935417),” *2022 8th International Conference on Wireless and Telematics (ICWT)*, Yogyakarta, Indonesia, 2022, pp. 1-6"
-
-"
+      - "[1] **M. Y. Kardawi** and A. A. S. Gunawan, “[Remote Sensing Scene Classification Based on Hybrid Convolutional Neural Network and Attention Module](https://ieeexplore.ieee.org/document...)"
+      - "[2] S. C. Pinantyo, **M. Y. Kardawi**, A. M. Arymurthy, A. Setiyoko and M. R. Adhari, “[UNet-Based Land Cover Segmentation With Ensembled Encoder for Fine Details Enhancement](https://i...)"
+      - "[3] **M. Y. Kardawi** and R. Sarno, “[Image Enhancement for Breast Cancer Detection on Screening Mammography Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10127835...)"
+      - "[4] **M. Y. Kardawi**, K. Muchtar, Y. Nurdin, N. Maulina and S. Muchallil, “[A Comparative Analysis of Deep Learning Models for Detection of Knee Osteoarthritis Disease through Mobile A...)"
