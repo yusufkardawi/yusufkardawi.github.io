@@ -2,12 +2,21 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: LPDP Scholarship Awardee
+    description: Recipient of LPDP Scholarships from Ministry of Finance of the Republic of Indonesia for postgraduate degree
+    date: Nov, 2022
+  - title: Thesis Aid Scholarship Awardee
+    description: Pidie Regency Government Scholarship Recipients for Thesis Assistance
+    date: Apr, 2022
+  - title: Bank Indonesia Scholarship Awardee 
+    description: Recipient of Bank Indonesia Scholarships
+    date: Jan, 2021
+  - title: National Student Creativity Program Research Grant 
+    description: Recipient of National Research Grant in Creative Intentions Program (PKM-KC)
+    date: Jun, 2021
+  - title: National Student Science Week Finalists (PIMNAS)
+    description: Programs Hosted by Ministry of Education, Culture, Research and Technology, General Secretariat and National Achievement Center of the Republic of Indonesia
+    date: Nov, 2021
+  - title: Academic Achievement Improvement Scholarship Awardee
+    description: Recipient of Academic Achievement Improvement Scholarship (PPA) by Universitas Syiah Kuala
+    date: Jan, 2019
