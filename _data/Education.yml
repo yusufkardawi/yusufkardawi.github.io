@@ -2,7 +2,7 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Universitas Indonesia, Master's in Computer Science
+  - title: Universitas Indonesia, Master in Computer Science
     description:
       - Development of a unified network integrating convolution, transformer, and dynamic prompts for lightweight all-in-one image restoration
     grade: "**GPA**: `3.67/4.0`"
